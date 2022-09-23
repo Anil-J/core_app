@@ -1,2 +1,3 @@
 this is for testing 
 apt-get update
+add :: /usr/local/repos
